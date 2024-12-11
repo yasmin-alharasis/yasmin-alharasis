@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi there, I'm Yasmin Al-harasis 👋
 
-<!--
-**yasmin-alharasis/yasmin-alharasis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+text Static Badge Static Badge
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏻‍💻 About Me
+I'm a Software engineer!!
+🌱 I’m currently learning everything 🤣
+👨🏻‍💻 I have 3 years of professional experience
+✉️ You can shoot me an email at yasmin.jaalharasis@gmail.com! I'll try to respond as soon as I can
+
+🔧 Languages and Tools:
+Static Badge   Static Badge
+Static Badge   Static Badge   Static Badge  
+Static Badge   Static Badge   Static Badge   Static Badge   Static Badge  
+Static Badge   Static Badge   Static Badge   Static Badge
+
+Find me around the web 🌎
+Sharing updates on LinkedIn
+
+
+Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.

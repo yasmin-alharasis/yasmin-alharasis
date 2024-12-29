@@ -23,6 +23,7 @@ Hi there, I'm Yasmin Al-harasis 👋 <br>
 ![Static Badge](https://img.shields.io/badge/bootstrap-8f34eb?style=for-the-badge&logo=bootstrap&logoColor=white)  &nbsp;
 <br>
 ![Static Badge](https://img.shields.io/badge/javascript-ffcc00?style=for-the-badge&logo=javascript&logoColor=ffcc00&labelColor=black&color=ffcc00) &nbsp;
+![Static Badge](https://img.shields.io/badge/Typescript-1c7bd4?style=for-the-badge&logo=typescript&logoColor=white&color=1c7bd4)
 ![Static Badge](https://img.shields.io/badge/jquery-3e5dc2?style=for-the-badge&logo=jquery&logoColor=white) &nbsp;
 ![Static Badge](https://img.shields.io/badge/express-3d3938?style=for-the-badge&logo=express&logoColor=white) &nbsp;
 ![Static Badge](https://img.shields.io/badge/vuejs-47a14d?style=for-the-badge&logo=vuejs&logoColor=white) &nbsp;

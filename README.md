@@ -14,6 +14,13 @@ Hi there, I'm Yasmin Al-harasis 👋 <br>
 
 <br>
 
+# 👨🏻‍💻  Portfolio
+
+Explore my portfolio website to learn more about my experience, projects, and technical skills:
+
+🌐 https://yasmin-harasis-portfolio.netlify.app/
+<br>
+
 # 🔧 Languages and Tools:
 ![Static Badge](https://img.shields.io/badge/GIT-c9510c?style=for-the-badge&logo=GIT&logoColor=c9510c&labelColor=black&color=c9510c) &nbsp;
 ![Static Badge](https://img.shields.io/badge/github-fafafa?style=for-the-badge&logo=github&logoColor=fafafa&labelColor=black&color=fafafa)

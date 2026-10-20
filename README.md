@@ -8,7 +8,6 @@ Hi there, I'm Yasmin Al-harasis 👋 <br>
 
 # 👨🏻‍💻  About Me
 - I'm a Software engineer!! 
-- 🌱 I’m currently learning everything 🤣
 - 👨🏻‍💻 I have 3 years of professional experience
 - ✉️  You can shoot me an email at yasmin.jaalharasis@gmail.com! I'll try to respond as soon as I can
 
